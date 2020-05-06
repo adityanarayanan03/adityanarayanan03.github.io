@@ -67,6 +67,9 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
+      {%if author.RoboGithub%}
+        <li><a href="{{author.RoboGithub}}"><i class="fab fa-fw fa-github"></i> Robotics GitHub </a></li>
+      {% endif%}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}
@@ -119,7 +122,7 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
       {%if author.VEXForum %}
-        <li><a href="{{author.VEXForym}}"><i class = "ai ai-impactstory ai-fw"></i> VEXForum </a></li>
+        <li><a href="{{author.VEXForum}}"><i class = "ai ai-impactstory ai-fw"></i> VEX Forum </a></li>
       {% endif %}
     </ul>
   </div>
