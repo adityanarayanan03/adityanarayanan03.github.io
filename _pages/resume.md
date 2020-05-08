@@ -22,6 +22,11 @@ redirect_from:
 * SAT Math II and SAT Chemistry Subject Tests - 800
 * ACT - 36 Overall, 11 on Writing  
 
+### Clubs:
+* Robotics- Team Leader (9th/10th/11th)  
+* Math Club- Vice President (10th/11th)  
+* Science Club- Member (9th/10th/11th)  
+* Varsity Tennis Team- Member (9th)
 
 ## Skills
 ### Programming:
