@@ -26,7 +26,8 @@ redirect_from:
 ## Skills
 ### Programming:
 * Proficient in Python and MATLAB  
-* Proficient in Embedded Systems programming (Arduino and Raspberry Pi)
+* Proficient in Embedded Systems programming (Arduino and Raspberry Pi)  
+
 ### Computer Aided Design
 * Autodesk Fusion 360  
 
