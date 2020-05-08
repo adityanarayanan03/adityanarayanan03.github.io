@@ -9,4 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+# Education
+# Skills
+# Research Lab Experience
+# Awards
