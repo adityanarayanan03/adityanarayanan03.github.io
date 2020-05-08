@@ -1,7 +1,11 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Competition Robotics"
+    url: /competitionRobotics/
+    
+  - title: "Electronics Workshops"
+    url: /electronicsWorkshops/
     
   - title: "Resume"
     url: /resume/
+    
