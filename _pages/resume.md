@@ -68,9 +68,9 @@ State and U.S. Open National Qualifier; 2018/19 - Tournament Finalist (second ou
 Regional Science Fair, advanced to Texas State Science and Engineering Festival  
 * Distinguished AP Scholar in 10th grade, 2019  
 * Brazos Valley Youth Concerto Competition Winner - 2018 -
-https://tinyurl.com/Aditya-BVSO-TheEagle. Invited as Solo Violinist for Brazos Valley Symphony
+[text link](https://tinyurl.com/Aditya-BVSO-TheEagle). Invited as Solo Violinist for Brazos Valley Symphony
 Orchestra Children’s Concert, attended by 4000 local school children - 2019 -
-https://tinyurl.com/Aditya-BVSO  
+[text link](https://tinyurl.com/Aditya-BVSO).  
 * Texas Music Educators Association All Region Orchestra Qualifier - 2017, 2018, 2019  
 * University Interscholastic League (UIL) Mathematics and Number Sense Region (2018) and state
 (2019) Qualifier  
