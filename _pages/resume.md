@@ -15,8 +15,8 @@ redirect_from:
 ### GPA/Rank: 4.73/4.0   9/526  
 ### 2019/2020 Courses:
 * Texas A&M University- Materials Science Multivariable Calculus 
-* College Station High School- AP Physics C,AP English Language, AP US
-History, Honors Spanish II, Varsity Orchestra  
+* College Station High School- AP Physics C,AP English Language, AP US History, Honors Spanish II, Varsity Orchestra  
+
 ## Skills
 ## Research Lab Experience
 ## Awards
