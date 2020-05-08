@@ -14,8 +14,8 @@ redirect_from:
 ### Expected Graduation: May 2021    
 ### GPA/Rank: 4.73/4.0   9/526  
 ### 2019/2020 Courses:
-* Texas A&M University- Materials Science Multivariable Calculus 
-* College Station High School- AP Physics C,AP English Language, AP US History, Honors Spanish II, Varsity Orchestra  
+* Texas A&M University- Materials Science, Multivariable Calculus 
+* College Station High School- AP Physics C, AP English Language, AP US History, Honors Spanish II, Varsity Orchestra  
 
 ### Test Scores:
 * 5 on AP Calculus BC, AP Statistics, AP Chemistry, AP Physics 1, AP World History, AP Human Geography  
@@ -56,3 +56,22 @@ device that tests tensile strength of soft tissue.
 
 
 ## Awards
+
+* USA Physics Olympiad Qualifier - Among ~400 students selected to take the USAPhO Exam based
+on score on F=ma exam  
+* American Invitational Mathematics Exam (AIME) Qualifier  
+* US National Chemistry Olympiad (USNCO) Qualifier  
+* VEX Robotics - 2019/2020 - Excellence Award, Tournament Winner and 2 Design Awards, Texas
+State and U.S. Open National Qualifier; 2018/19 - Tournament Finalist (second out of 28 teams);
+2017/18 - Tournament Judges’ Award  
+* First place in the Computer Science Hardware and Embedded Systems category at Austin
+Regional Science Fair, advanced to Texas State Science and Engineering Festival  
+* Distinguished AP Scholar in 10th grade, 2019  
+* Brazos Valley Youth Concerto Competition Winner - 2018 -
+https://tinyurl.com/Aditya-BVSO-TheEagle. Invited as Solo Violinist for Brazos Valley Symphony
+Orchestra Children’s Concert, attended by 4000 local school children - 2019 -
+https://tinyurl.com/Aditya-BVSO  
+* Texas Music Educators Association All Region Orchestra Qualifier - 2017, 2018, 2019  
+* University Interscholastic League (UIL) Mathematics and Number Sense Region (2018) and state
+(2019) Qualifier  
+* 4th Place team at Regional Science bowl - 2018  
