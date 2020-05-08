@@ -28,24 +28,25 @@ redirect_from:
 * Proficient in Python and MATLAB  
 * Proficient in Embedded Systems programming (Arduino and Raspberry Pi)  
 
-### Computer Aided Design
+
+### Computer Aided Design:
 * Autodesk Fusion 360  
 
 
 ## Research Lab Experience
-### Summer 2019 to Present
+### Summer 2019 to Present:
 * Texas A&M Autonomous Systems Lab - Texas A&M Autonomous Systems Lab - Implemented a
 sensor fusion algorithm using the Kalman Filter for attitude estimation using low-cost IMU sensors.
 Read and analyzed data in real-time on a Raspberry Pi using Python from MPU9250 sensor.
 Presented the work at Austin Regional Science Fair and Texas Junior Academy of Science.  
 
-### Summer 2018
+### Summer 2018:
 * Texas A&M University Autonomous Vehicles Lab - Programmed in MATLAB and ROS (Robot
 Operating System) to analyze tracking data from sensors on an Autonomous Vehicle.  
 * Texas A&M University Innovation Lab - Built a wireless data transfer module using PYCOM
 microcontrollers and micropython.  
 
-### Summer 2017
+### Summer 2017:
 * Texas A&M University Innovation Lab - Built and programmed a Hexacopter with motors
 individually controlled by a handheld unit consisting of a distance sensor, a radio communication
 chip (XBEE), and a microcontroller (Arduino compatible Teensy). Used Fusion 360 for CNC and 3D
