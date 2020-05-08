@@ -17,6 +17,12 @@ redirect_from:
 * Texas A&M University- Materials Science Multivariable Calculus 
 * College Station High School- AP Physics C,AP English Language, AP US History, Honors Spanish II, Varsity Orchestra  
 
+### Test Scores:
+* 5 on AP Calculus BC, AP Statistics, AP Chemistry, AP Physics 1, AP World History, AP Human Geography  
+* SAT Math II and SAT Chemistry Subject Tests - 800
+* ACT - 36 Overall, 11 on Writing  
+
+
 ## Skills
 ## Research Lab Experience
 ## Awards
