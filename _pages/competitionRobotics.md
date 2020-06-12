@@ -14,13 +14,9 @@ I can't remember a time when I was not fascinated by the world of robotics. Afte
 
 During our first year of participating in the VEX Robotics Competition and under the mentorship of team 8332A, our team (then under the name Oat) was awarded the Judges award at our first competition in Austin, Texas, and made numerous appearances in elimination matches.
 
-![Our Last Robot of the Season](https://github.com/adityanarayanan03/adityanarayanan03.github.io/blob/master/images/InTheZone.JPG)
-
 ### 2018-2019: VRC Turning Point
 
 Over the course of our sophomore years of High School, our team, now going by the name Kinetic, constructed 3 robots to accomplish the goals of VEX Robotics Competition: Turning Point. We made numerous elimination-round appearances and were tournament finalists at our final tournament of the season. 
-
-![Our Second Robot of the Season](https://github.com/adityanarayanan03/adityanarayanan03.github.io/blob/master/images/Turning%20Point.JPG)
 
 ### 2019-2020: VRC Tower Takeover
 
@@ -30,8 +26,6 @@ During our third year participating in VEX, we had many successes, including:
 * Design Award winner with our second robot of the season. Achieved the highest score while operating autonomously at our regional competition in December, 2019. Qualified again for Texas State and CREATE US Open.
 * Excellence award winner and Tournament Finalist with our final robot of the season (An innovative hybrid between two popular designs).
 * Qualified for elimination-round matches at Texas State in February, 2020.
-
-![Our Final Robot](https://github.com/adityanarayanan03/adityanarayanan03.github.io/blob/master/images/IMG_2645.JPG)
 
 ### 2020-2021: VRC Change Up
 
