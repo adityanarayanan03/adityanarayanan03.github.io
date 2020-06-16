@@ -15,3 +15,7 @@ Unable to continue in-person workshops after the first two, I began replicating 
 ### Online Workshop 1: Using a Joystick With the Arduino
 
 [![Video 1](https://i.imgur.com/akaTmoI.jpg)](https://youtu.be/j1XfYWHAi7E)
+
+### Online Workshop 2: Servo Motor and Button Switches
+
+[![Video 2](https://i.imgur.com/2uYXEO4.jpg)](https://youtu.be/ccX55bKWcXs)
