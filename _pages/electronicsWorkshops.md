@@ -11,3 +11,7 @@ redirect_from:
 In February of this year, I began running a series of electronics workshops with the aim of exciting local middle schoolers about the world of Electronics and Robotics in the same way I got excited myself -- by building a bunch of simple microcontroller projects. In the first workshop of the series, I taught a number of local children how to safely solder, an essential skill for makers of all levels; we then applied soldering skills at constructing a "burglar alarm" circuit. At the second workshop, I began introducing microcontroller projects with the Arduino microcontroller.
 
 Unable to continue in-person workshops after the first two, I began replicating the projects as YouTube videos, and have published the first two "online-workshops" in which I go over reading data from a Joystick and controlling Servo Motors.
+
+### Online Workshop 1: Using a Joystick With the Arduino
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
