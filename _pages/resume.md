@@ -12,7 +12,6 @@ redirect_from:
 ## Education
 ### College Station High School and Texas A&M University    
 ### Expected Graduation: May 2021    
-### GPA/Rank: 4.73/4.0   9/526  
 ### 2019/2020 Courses:
 * Texas A&M University- Materials Science, Multivariable Calculus 
 * College Station High School- AP Physics C, AP English Language, AP US History, Honors Spanish II, Varsity Orchestra  
@@ -64,7 +63,8 @@ device that tests tensile strength of soft tissue.
 
 * USA Physics Olympiad Qualifier - Among ~400 students selected to take the USAPhO Exam based
 on score on F=ma exam  
-* American Invitational Mathematics Exam (AIME) Qualifier  
+* American Invitational Mathematics Exam (AIME) Qualifier - 2020
+* Achieved a score of 7 on the 2020 AOIME (American Online Invitational Mathematics Exam)
 * US National Chemistry Olympiad (USNCO) Qualifier  
 * VEX Robotics - 2019/2020 - Excellence Award, Tournament Winner and 2 Design Awards, Texas
 State and U.S. Open National Qualifier; 2018/19 - Tournament Finalist (second out of 28 teams);
