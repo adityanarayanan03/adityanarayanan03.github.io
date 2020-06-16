@@ -14,4 +14,4 @@ Unable to continue in-person workshops after the first two, I began replicating 
 
 ### Online Workshop 1: Using a Joystick With the Arduino
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Video 1](https://i.imgur.com/akaTmoI.jpg)](https://youtu.be/j1XfYWHAi7E)
