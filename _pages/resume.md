@@ -62,7 +62,7 @@ device that tests tensile strength of soft tissue.
 ## Awards
 
 * USA Physics Olympiad Qualifier - Among ~400 students selected to take the USAPhO Exam based
-on score on F=ma exam  
+on F=ma exam score.  
 * American Invitational Mathematics Exam (AIME) Qualifier - 2020
 * Achieved a score of 7 on the 2020 AOIME (American Online Invitational Mathematics Exam)
 * US National Chemistry Olympiad (USNCO) Qualifier  
@@ -77,6 +77,4 @@ Regional Science Fair, advanced to Texas State Science and Engineering Festival
 Orchestra Children’s Concert, attended by 4000 local school children - 2019 -
 [Article Link](https://tinyurl.com/Aditya-BVSO).  
 * Texas Music Educators Association All Region Orchestra Qualifier - 2017, 2018, 2019  
-* University Interscholastic League (UIL) Mathematics and Number Sense Region (2018) and state
-(2019) Qualifier  
-* 4th Place team at Regional Science bowl - 2018  
+* University Interscholastic League (UIL) Mathematics and Number Sense Region qualifier (2018, 2019) and Number Sense State qualifier (2019).  
