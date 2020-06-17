@@ -42,7 +42,6 @@ redirect_from:
 * Texas A&M Autonomous Systems Lab - Texas A&M Autonomous Systems Lab - Implemented a
 sensor fusion algorithm using the Kalman Filter for attitude estimation using low-cost IMU sensors.
 Read and analyzed data in real-time on a Raspberry Pi using Python from MPU9250 sensor.
-Presented the work at Austin Regional Science Fair and Texas Junior Academy of Science.  
 
 ### Summer 2018:
 * Texas A&M University Autonomous Vehicles Lab - Programmed in MATLAB and ROS (Robot
