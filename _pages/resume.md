@@ -84,7 +84,7 @@ State and U.S. Open National Qualifier; 2018/19 - Tournament Finalist (second ou
 2017/18 - Tournament Judges’ Award  
 * First place in the Computer Science Hardware and Embedded Systems category at Austin
 Regional Science Fair, advanced to Texas State Science and Engineering Festival  
-* Distinguished AP Scholar in 10th grade, 2019  
+* national AP Scholar in 11th grade, 2020  
 * Brazos Valley Youth Concerto Competition Winner - 2018 -
 [Article link](https://tinyurl.com/Aditya-BVSO-TheEagle). Invited as Solo Violinist for Brazos Valley Symphony
 Orchestra Children’s Concert, attended by 4000 local school children - 2019 -
