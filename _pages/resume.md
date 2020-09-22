@@ -25,9 +25,9 @@ redirect_from:
 * ACT - 36 Overall, 11 on Writing  
 
 ### Clubs:
-* Robotics- Team Leader (9th/10th/11th)  
-* Math Club- Vice President (10th/11th)  
-* Science Club- Member (9th/10th/11th)  
+* Robotics- Team Leader (9th/10th/11th/12th)  
+* Math Club- Vice President (10th/11th/12th)  
+* Science Club- Member (9th/10th/11th/12th(Officer))  
 * Varsity Tennis Team- Member (9th)
 
 ## Skills
