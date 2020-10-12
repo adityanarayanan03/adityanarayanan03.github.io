@@ -12,7 +12,7 @@ redirect_from:
 
 In the process of pool or group testing for diseases such as COVID, the procedure of pipetting thousands of patient samples into specific locations on a well plate is quite inefficient. I built the Pool Testing Backlight to eliminate the need for handmade single-use paper templates or for even more inefficient methods. Learn more [here](https://adityanarayanan03.github.io/projects/pool_testing_backlight/pool_testing_backlight/).
 
-<img src="https://adityanarayanan03.github.io/images/pool_testing_backlight.jpg" alt = "Backlight">
+<img src="https://adityanarayanan03.github.io/images/pool_testing_backlight.JPG" alt = "Backlight">
 
 ## V5 Serial Plotter
 
