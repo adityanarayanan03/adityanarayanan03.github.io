@@ -1,3 +1,4 @@
+# Pool Testing Backlight
 The pool testing backlight offers an efficient way to perform pool/group testing on a 96 well plate, without robotic pipetting machine or paper templates.
 
 ## Hardware
