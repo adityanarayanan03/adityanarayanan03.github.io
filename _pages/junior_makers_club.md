@@ -1,9 +1,9 @@
 ---
-permalink: /electronicsWorkshops/
-title: "Electronics Workshops"
+permalink: /junior_makers_club/
+title: "Junior Makers Club"
 author_profile: true
 redirect_from: 
-  - /electronicsWorkshops
+  - /junior_makers_club
 ---
 
 {% include base_path %}
