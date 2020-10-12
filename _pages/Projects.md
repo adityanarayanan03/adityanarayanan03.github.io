@@ -14,7 +14,7 @@ In the process of pool or group testing for diseases such as COVID, the procedur
 
 <img src="https://adityanarayanan03.github.io/images/pool_testing_backlight.JPG" alt = "Backlight">
 
-## V5 Serial Plotter
+## [V5 Serial Plotter](https://adityanarayanan03.github.io/projects/V5_plotter/V5_plotter/)
 
 From March to June of this year I worked on creating an application for a serial plotter tool intended to be used with the VEX V5 system to help debug code, assess program performance, tune control loops, and much more. I initially intended for the project to be a tool that my team and I could use as a much more efficient way of visualizing data from our robots than was currently available; however, I soon realized that the app would be extremely useful to VEX teams around the world. I released the application in early June to the VEX Community on GitHub.
 
