@@ -5,9 +5,10 @@ main:
     
   - title: "Junior Makers Club"
     url: /junior_makers_club/
-    
+
+  - title: "Projects"
+    url: /projects/
+
   - title: "Resume"
     url: /resume/
     
-  - title: "Projects"
-    url: /projects/
