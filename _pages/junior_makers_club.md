@@ -18,12 +18,10 @@ All the components used in this project are available as part of the Elegoo Uno 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j1XfYWHAi7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Video 1](https://i.imgur.com/akaTmoI.jpg)](https://youtu.be/j1XfYWHAi7E)
-
 ### Online Workshop 2: Servo Motor and Button Switches
 
-[![Video 2](https://i.imgur.com/2uYXEO4.jpg)](https://youtu.be/ccX55bKWcXs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ccX55bKWcXs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Online Workshop 3: 7-Segment LED Display
 
-[![Video 3](https://imgur.com/wIgvzDI.jpg)](https://youtu.be/m2jO68LuB0Q)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m2jO68LuB0Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
