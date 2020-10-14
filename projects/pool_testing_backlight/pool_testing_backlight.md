@@ -6,7 +6,7 @@ author_profile: false
 The pool testing backlight offers an efficient way to perform pool/group testing on a 96 well plate, without robotic pipetting machine or paper templates.
 
 ## Hardware
-The Pool Testing Backlight (pictured below) is a enclosed device with a seat for a standard 96-well plate. The backlight contains an 8x12 LED array underneath a polycarbonate window. When a well plate is placed into its seat, individual LED's on the array can be turned on to indicate certain desired wells on the well plate. 
+The Pool Testing Backlight (pictured below) is a enclosed device with a seat for a standard 96-well plate. The backlight's heart is an 8x12 LED array underneath a polycarbonate window. When a well plate is placed into its seat, individual LED's on the array can be turned on to indicate certain desired wells on the well plate. 
 
 <img src="https://adityanarayanan03.github.io/images/pool_testing_backlight.JPG">
 
