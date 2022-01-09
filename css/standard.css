@@ -1,0 +1,16 @@
+body {
+    background-size: cover;
+    background-color: #192734;
+    margin: 0px;
+    min-height: 90vh;
+}
+
+#title {
+    color: white;
+    display: grid;
+    place-content: center;
+    font-weight: normal;
+    font-size: 45px;
+    margin-bottom: 10px;
+    font-family: 'Source Code Pro', monospace;
+}

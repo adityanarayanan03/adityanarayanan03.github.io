@@ -1,0 +1,12 @@
+.resume {
+    margin: auto;
+    display: grid;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.resume>iframe {
+    width: 70%;
+    height: 80vh;
+    margin: auto;
+}

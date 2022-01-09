@@ -1,0 +1,40 @@
+.main_content {
+    color: white;
+    font-family: 'Source Sans 3', sans-serif;
+    width: 70%;
+    margin: auto;
+    font-size: 18px;
+}
+
+h2 {
+    color: #03dac5;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+img {
+    width: 300px;
+}
+
+#list {
+    padding-left: 20px;
+}
+
+.year {
+    display: grid;
+    grid-template-columns: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.year>.text {
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.year>.image {
+    grid-column-start: 2;
+    grid-column-end: -1;
+    display: grid;
+    justify-content: right;
+}

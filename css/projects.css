@@ -1,0 +1,47 @@
+body {
+    display: grid;
+    place-content: center;
+}
+
+#projects {
+    color: rgb(250, 126, 112);
+}
+
+.project_row {
+    text-align: center;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    place-content: flex-start;
+}
+
+.project_row>a {
+    text-decoration: none;
+}
+
+.project {
+    padding:20px;
+    border: 2px #03dac5;
+    border-style: solid;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.project > h2 {
+    color: #03dac5;
+    font-family: "Source Code Pro", monospace;
+    font-weight: normal;
+}
+
+.project>img {
+    height: 200px;
+}
+
+.project>p {
+    color: white;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.project:hover {
+    background-color: rgba(256, 126, 112,.8);
+}
