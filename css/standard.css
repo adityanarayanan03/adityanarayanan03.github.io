@@ -14,3 +14,13 @@ body {
     margin-bottom: 10px;
     font-family: 'Source Code Pro', monospace;
 }
+
+#sub_title {
+    color: white;
+    display: grid;
+    justify-content: center;
+    font-weight: normal;
+    font-size: 35px;
+    margin-bottom: 10px;
+    font-family: 'Source Code Pro', monospace;
+}

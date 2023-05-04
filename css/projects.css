@@ -1,4 +1,4 @@
-body {
+.main_body {
     display: grid;
     place-content: center;
 }
@@ -7,12 +7,18 @@ body {
     color: rgb(250, 126, 112);
 }
 
+#sub_title {
+    margin-top:100px;
+    place-self: flex-start center;
+    padding: 20px;
+}
+
 .project_row {
     text-align: center;
     display: flex;
     padding-top: 20px;
     padding-bottom: 20px;
-    place-content: flex-start;
+    place-content:flex-start left;
 }
 
 .project_row>a {
@@ -33,7 +39,7 @@ body {
     font-weight: normal;
 }
 
-.project>img {
+.project > img {
     height: 200px;
 }
 
@@ -43,5 +49,15 @@ body {
 }
 
 .project:hover {
-    background-color: rgba(256, 126, 112,.8);
+    /*background-color: rgba(256, 126, 112,.8);*/
+    border: 2px #F92672;
+    border-style:dotted;
+}
+
+.project:hover > h2{
+    color: #F92672;
+}
+
+.project:hover > p {
+    color: #F92672;
 }
