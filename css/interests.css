@@ -1,0 +1,50 @@
+.content {
+    color: white;
+    font-family: 'Source Sans 3', sans-serif;
+    width: 80%;
+    margin: auto;
+    font-size: 18px;
+
+    display: grid;
+    grid-template-columns: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.interest_column{
+    display:grid;
+    justify-content: center;
+    align-content:start;
+}
+
+#academic_interests{
+    grid-column-start: 1;
+    grid-column-end: 2;
+
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+#nonacademic_interests{
+    grid-column-start: 2;
+    grid-column-end: -1;
+
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+h2 {
+    color: #03dac5;
+    font-family: "Source Code Pro", monospace;
+    font-weight: normal;
+
+    display:grid;
+    justify-content: center;
+
+    height: fit-content;
+}
+
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+}
