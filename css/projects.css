@@ -4,7 +4,7 @@
 }
 
 #projects {
-    color: rgb(250, 126, 112);
+    color:#F92672;
 }
 
 #sub_title {
@@ -18,7 +18,7 @@
     display: flex;
     padding-top: 20px;
     padding-bottom: 20px;
-    place-content:flex-start left;
+    place-content:flex-start center;
 }
 
 .project_row>a {
