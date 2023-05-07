@@ -6,7 +6,10 @@ body {
     font-family: 'Source Sans 3', sans-serif;
     font-size: 18px;
     display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto 1fr;
     place-content: center;
+    justify-content: center;
     width: 70vw;
     text-align: left;
     margin: auto;
@@ -16,10 +19,42 @@ body {
     color: white;
 }
 
-img {
-    width: 70vw;
+.circular-landscape>img{
+    width: auto;
+    height: 100%;
+    margin-left: -250px;
+}
+
+.circular-landscape{
+    display: inline-block;
+    position: relative;
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+    border-radius: 50%;
+
+    margin: 20px auto;
 }
 
 #about {
     color: #f92673;
+}
+
+#tldr {
+    grid-column-start: 1;
+    grid-column-end: -1;
+
+    grid-row-start: 1;
+    grid-row-end: 2;
+
+    width: 100%;
+}
+
+#full_version {
+    grid-column-start: 1;
+    grid-column-end: 2;
+
+    grid-row-start: 2;
+    grid-row-end: 3;
+
 }
