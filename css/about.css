@@ -4,10 +4,10 @@ body {
 
 #about_me_text {
     font-family: 'Source Sans 3', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto 1fr;
+    grid-template-rows: auto;
     place-content: center;
     justify-content: center;
     width: 70vw;
@@ -17,12 +17,23 @@ body {
 
 .text {
     color: white;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .circular-landscape>img{
     width: auto;
     height: 100%;
-    margin-left: -250px;
+    margin-left: -125px;
+}
+
+.circular-landscape:hover img{
+    opacity: 0.4;
+}
+
+.circular-landscape:hover #hover_text {
+    display: inline-block;
+    opacity: 1;
 }
 
 .circular-landscape{
@@ -34,7 +45,23 @@ body {
     border-radius: 50%;
 
     margin: 20px auto;
+
+    grid-column-start: 2;
+    grid-column-end: -1;
+    grid-row-start: 2;
+    grid-row-end: 4;
 }
+
+#hover_text {
+    display: none;
+    color: white;
+    position: absolute;
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Center precisely */
+    text-align: center;
+}
+
 
 #about {
     color: #f92673;
@@ -57,4 +84,24 @@ body {
     grid-row-start: 2;
     grid-row-end: 3;
 
+    height: fit-content;
+
+}
+
+
+
+#academic_interests{
+    grid-column-start: 1;
+    grid-column-end: 2;
+
+    grid-row-start: 3;
+    grid-row-end: 5;
+}
+
+#nonacademic_interests{
+    grid-column-start: 2;
+    grid-column-end: -1;
+
+    grid-row-start: 4;
+    grid-row-end: 5;
 }

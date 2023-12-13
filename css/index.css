@@ -16,3 +16,15 @@ h1 {
     color: white;
     font-weight: normal;
 }
+
+.dot-replacement{
+    display: inline-block;
+    background: url("../images/longhorn-transparent.png") no-repeat;
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+    text-indent: -9999px;
+    vertical-align: bottom;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}

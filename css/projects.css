@@ -29,6 +29,7 @@
     padding:20px;
     border: 2px #03dac5;
     border-style: solid;
+    border-radius: 10px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -50,8 +51,7 @@
 
 .project:hover {
     /*background-color: rgba(256, 126, 112,.8);*/
-    border: 2px #F92672;
-    border-style:dotted;
+    transform: scale(1.01);
 }
 
 .project:hover > h2{
