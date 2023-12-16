@@ -17,8 +17,6 @@ body {
 
 .text {
     color: white;
-    padding-left: 30px;
-    padding-right: 30px;
 }
 
 .circular-landscape>img{
@@ -73,8 +71,6 @@ body {
 
     grid-row-start: 1;
     grid-row-end: 2;
-
-    width: 100%;
 }
 
 #full_version {
@@ -83,12 +79,7 @@ body {
 
     grid-row-start: 2;
     grid-row-end: 3;
-
-    height: fit-content;
-
 }
-
-
 
 #academic_interests{
     grid-column-start: 1;
@@ -104,4 +95,16 @@ body {
 
     grid-row-start: 4;
     grid-row-end: 5;
+}
+
+.text_chunk{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    margin-right: 15px;
+    margin-left: 15px;
+
+    height: fit-content;
 }
