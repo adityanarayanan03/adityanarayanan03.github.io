@@ -1,12 +1,19 @@
+:root {
+    --background-color: #192734;
+    --text-color: white;
+    --accent-1: #f92673;
+    --accent-2: #03dac5;
+}
+
 body {
     background-size: cover;
-    background-color: #192734;
+    background-color: var(--background-color);
     margin: 0px;
     min-height: 90vh;
 }
 
 #title {
-    color: white;
+    color: var(--text-color);
     display: grid;
     place-content: center;
     font-weight: normal;
@@ -16,7 +23,7 @@ body {
 }
 
 #sub_title {
-    color: white;
+    color: var(--text-color);
     display: grid;
     justify-content: center;
     font-weight: normal;

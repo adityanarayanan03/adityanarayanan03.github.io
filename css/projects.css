@@ -1,10 +1,12 @@
+@import url(standard.css);
+
 .main_body {
     display: grid;
     place-content: center;
 }
 
 #projects {
-    color:#F92672;
+    color:var(--accent-1);
 }
 
 #sub_title {
@@ -27,7 +29,7 @@
 
 .project {
     padding:20px;
-    border: 2px #03dac5;
+    border: 2px var(--accent-2);
     border-style: solid;
     border-radius: 10px;
     margin-left: 20px;
@@ -35,7 +37,7 @@
 }
 
 .project > h2 {
-    color: #03dac5;
+    color: var(--accent-2);
     font-family: "Source Code Pro", monospace;
     font-weight: normal;
 }
@@ -45,7 +47,7 @@
 }
 
 .project>p {
-    color: white;
+    color: var(--text-color);
     font-family: 'Source Sans 3', sans-serif;
 }
 
@@ -55,9 +57,9 @@
 }
 
 .project:hover > h2{
-    color: #F92672;
+    color: var(--accent-1);
 }
 
 .project:hover > p {
-    color: #F92672;
+    color: var(--accent-1);
 }

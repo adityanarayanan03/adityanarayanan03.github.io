@@ -1,3 +1,5 @@
+@import url(standard.css);
+
 body {
     font-family: 'Source Code Pro', monospace;
 }
@@ -16,7 +18,7 @@ body {
 }
 
 .text {
-    color: white;
+    color: var(--text-color);
 }
 
 .circular-landscape>img{
@@ -52,7 +54,7 @@ body {
 
 #hover_text {
     display: none;
-    color: white;
+    color: var(--text-color);
     position: absolute;
     top: 50%; /* Center vertically */
     left: 50%; /* Center horizontally */
@@ -62,7 +64,7 @@ body {
 
 
 #about {
-    color: #f92673;
+    color: var(--accent-1);
 }
 
 #tldr {

@@ -1,5 +1,7 @@
+@import url(standard.css);
+
 #resume {
-    color:#F92672;
+    color:var(--accent-1);
 }
 
 .resume {

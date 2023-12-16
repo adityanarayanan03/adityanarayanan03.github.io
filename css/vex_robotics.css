@@ -1,5 +1,7 @@
+@import url(standard.css);
+
 .main_content {
-    color: white;
+    color: var(--text-color);
     font-family: 'Source Sans 3', sans-serif;
     width: 70%;
     margin: auto;
@@ -7,7 +9,7 @@
 }
 
 h2 {
-    color: #03dac5;
+    color: var(--accent-2);
     margin-top: 0px;
     margin-bottom: 0px;
 }
