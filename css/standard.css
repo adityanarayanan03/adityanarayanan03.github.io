@@ -1,8 +1,10 @@
 :root {
-    --background-color: #192734;
-    --text-color: white;
-    --accent-1: #f92673;
-    --accent-2: #03dac5;
+    --background-color: #FBFEFF;
+    --text-color: #000000;
+    --accent-1: #B84D00;
+    --accent-2: #009FB8;
+    --accent-3: #007C8F;
+    --image-colors: invert(180);
 }
 
 body {

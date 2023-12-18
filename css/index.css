@@ -1,6 +1,7 @@
+@import url(standard.css);
+
 img {
-    width: auto;
-    height: auto;
+    filter: var(--image-colors);
 }
 
 body {
@@ -13,7 +14,7 @@ h1 {
     position: relative;
     font-family: "Source Code Pro", monospace;
     width: max-content;
-    color: white;
+    color: var(--text-color);
     font-weight: normal;
 }
 
@@ -27,4 +28,5 @@ h1 {
     vertical-align: bottom;
     margin-left: 5px;
     margin-bottom: 5px;
+    filter: var(--image-colors);
 }
